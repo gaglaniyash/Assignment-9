@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+#main {
+    width: 99%;
+    height: 480px;
+}
+
+.box1 {
+    display: inline-block;
+    width: 24%;
+    margin: 4px;
+    position: relative;
+}
+
+img {
+    width: 300px;
+    height: 290px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.box1 h2, p {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.box2 {
+    display: inline-block;
+    width: 24%;
+    margin: 8px;
+    position: relative;
+}
+
+.clothes img {
+    width: 140px;
+    height: 142px;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.box2 h2, p {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.box3 {
+    display: inline-block;
+    width: 24%;
+    margin: 0px;
+    position: relative;
+}
+
+.box3 img {
+    width: 300px;
+    height: 290px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.box3 h2, p {
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+.box4 {
+    display: inline-block;
+    width: 24%;
+    margin: 5px;
+    position: relative;
+}
+
+.appliances img {
+    width: 140px;
+    height: 140px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.box4 h2, p {
+    margin-left: 30px;
+    margin-top: 22px;
+}
